@@ -1,0 +1,499 @@
+<%% date = Time.now.to_formatted_s(:db) %>
+
+alabama:
+  id: 1
+  abbreviation: AL
+  full_name: Alabama
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+alaska:
+  id: 2
+  abbreviation: AK
+  full_name: Alaska
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+american_samoa:    
+  id: 3
+  abbreviation: AS
+  full_name: American Samoa
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+arizona:
+  id: 4  
+  abbreviation: AZ
+  full_name: Arizona
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+arkansas:
+  id: 5
+  abbreviation: AR
+  full_name: Arkansas
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+california:
+  id: 6
+  abbreviation: CA
+  full_name: California
+  counties_count: 67
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+colorado:
+  id: 7  
+  abbreviation: CO
+  full_name: Colorado
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+connecticut:
+  id: 8  
+  abbreviation: CT
+  full_name: Connecticut
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+delaware:
+  id: 9  
+  abbreviation: DE
+  full_name: Delaware
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+distric_of_columbia:
+  id: 10  
+  abbreviation: DC
+  full_name: District of Columbia
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+federated_states_of_micronesia:
+  id: 11  
+  abbreviation: FM
+  full_name: Federated States of Micronesia
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+florida:
+  id: 12  
+  abbreviation: FL
+  full_name: Florida
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+georgia:
+  id: 13  
+  abbreviation: GA
+  full_name: Georgia
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+guam:
+  id: 14  
+  abbreviation: GU
+  full_name: Guam
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+hawaii:
+  id: 15
+  abbreviation: HI
+  full_name: Hawaii
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+idaho:
+  id: 16
+  abbreviation: ID
+  full_name: Idaho
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+illinois:
+  id: 17  
+  abbreviation: IL
+  full_name: Illinois
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+indiana:
+  id: 18
+  abbreviation: IN
+  full_name: Indiana
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+iowa:
+  id: 19  
+  abbreviation: IA
+  full_name: Iowa
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+kansas:
+  id: 20
+  abbreviation: KS
+  full_name: Kansas
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+kentucky:
+  id: 21
+  abbreviation: KY  
+  full_name: Kentucky
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+louisiana:
+  id: 22  
+  abbreviation: LA
+  full_name: Louisiana
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+maine:
+  id: 23  
+  abbreviation: ME
+  full_name: Maine
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+marshall_islands:
+  id: 24
+  abbreviation: MH
+  full_name: Marshall Islands
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+maryland:
+  id: 25  
+  abbreviation: MD
+  full_name: Maryland
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+massachussetts:
+  id: 26  
+  abbreviation: MA
+  full_name: Massachusetts
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+michigan:
+  id: 27
+  abbreviation: MI
+  full_name: Michigan
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+minnesota:
+  id: 28
+  abbreviation: MN  
+  full_name: Minnesota
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+mississippi:
+  id: 29
+  abbreviation: MS
+  full_name: Mississippi
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+missouri:
+  id: 30
+  abbreviation: MO
+  full_name: Missouri
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+montana:
+  id: 31
+  abbreviation: MT
+  full_name: Montana  
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+nebraska:
+  id: 32
+  abbreviation: NE
+  full_name: Nebraska
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+nevada:
+  id: 33  
+  abbreviation: NV
+  full_name: Nevada
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+new_hampshire:
+  id: 34
+  abbreviation: NH
+  full_name: New Hampshire
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+new_jersey:
+  id: 35  
+  abbreviation: NJ
+  full_name: New Jersey
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+new_mexico:
+  id: 36
+  abbreviation: NM
+  full_name: New Mexico
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+new_york:
+  id: 37  
+  abbreviation: NY
+  full_name: New York
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+north_carolina:
+  id: 38
+  abbreviation: NC
+  full_name: North Carolina
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+north_dakota:
+  id: 39  
+  abbreviation: ND
+  full_name: North Dakota
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+northern_mariana_islands:
+  id: 40  
+  abbreviation: MP
+  full_name: Northern Mariana Islands
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+ohio:
+  id: 41  
+  abbreviation: OH
+  full_name: Ohio
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+oklahoma:
+  id: 42
+  abbreviation: OK  
+  full_name: Oklahoma
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+oregon:
+  id: 43
+  abbreviation: OR
+  full_name: Oregon
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+palau:
+  id: 44  
+  abbreviation: PW
+  full_name: Palau
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+pennsylvania:
+  id: 45  
+  abbreviation: PA
+  full_name: Pennsylvania
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+puerto_rico:
+  id: 46  
+  abbreviation: PR
+  full_name: Puerto Rico
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+rhode_island:
+  id: 47
+  abbreviation: RI
+  full_name: Rhode Island
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+south_carolina:
+  id: 48
+  abbreviation: SC
+  full_name: South Carolina
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+south_dakota:
+  id: 49
+  abbreviation: SD
+  full_name: South Dakota
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+tennessee:
+  id: 50  
+  abbreviation: TN
+  full_name: Tennessee
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+texas:
+  id: 51  
+  abbreviation: TX
+  full_name: Texas
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+utah:
+  id: 52
+  abbreviation: UT  
+  full_name: Utah
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+vermont:
+  id: 53  
+  abbreviation: VT
+  full_name: Vermont
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+virgin_islands:
+  id: 54
+  abbreviation: VI
+  full_name: Virgin Islands
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+virginia:
+  id: 55  
+  abbreviation: VA
+  full_name: Virginia
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+washington:
+  id: 57  
+  abbreviation: WA
+  full_name: Washington
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+west_virginia:
+  id: 58
+  abbreviation: WV
+  full_name: West Virginia
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+wisconsin:
+  id: 59  
+  abbreviation: WI
+  full_name: Wisconsin
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+wyoming:
+  id: 60  
+  abbreviation: WY
+  full_name: Wyoming
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+ae_armed_forces:
+  id: 61  
+  abbreviation: AE
+  full_name: Armed Forces Africa, Canada, Europe and Middle East
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+aa_armed_forces:
+  id: 62
+  abbreviation: AA
+  full_name: Armed Forces Americas (except Canada)
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0
+ap_armed_forces:
+  id: 63
+  abbreviation: AP
+  full_name: Armed Forces Pacific
+  created_at: <%%= date %>
+  created_by: 0
+  updated_at: <%%= date %>
+  updated_by: 0

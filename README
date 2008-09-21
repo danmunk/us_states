@@ -1,0 +1,13 @@
+US States
+=========
+
+Generates State model with all US states, territories and military designations.  Seed data created in migration with corresponding fixtures.  No options are available.
+
+
+Example
+=======
+
+./script/generate us_states
+
+
+Copyright (c) 2008 Dan Munk, released under the MIT license
